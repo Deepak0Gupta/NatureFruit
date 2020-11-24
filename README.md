@@ -1,5 +1,5 @@
 # NatureFruit.com
-![Screenshot](img/homepage.png)
+![Screenshot](../master/img/homepage.png)
 
 This is the project was my final year project of TYBsc(IT).
 I build this poject using PHP MYSQL , javascript and BootStrep and litle bit of alex also.
