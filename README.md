@@ -1,7 +1,6 @@
 # NatureFruit.com
-<p align="center">
-  <img src="img/homepage.png" width="350" alt="Home Page image">
-</p>
+![Screenshot](img/homepage.png)
+
 This is the project was my final year project of TYBsc(IT).
 I build this poject using PHP MYSQL , javascript and BootStrep and litle bit of alex also.
 This project is like other ecoomerce website but it has some new features like Chat bot , Voice Recognition and an Machine Learning Algorithm Program which pridicts that which product should be suggest to the coustmer.
