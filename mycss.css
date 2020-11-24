@@ -1,0 +1,170 @@
+/* dropdown start*/
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdownv {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentv {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentv li:hover {background-color: #ddd;}
+
+.dropdownv:hover .dropdown-contentv {display: block;}
+
+.dropdownv:hover .dropbtn {background-color: #3e8e41;}
+/* dropdown over*/
+
+.nav-color{
+	/*background: #FFDBCF;*/
+	color: white !important;
+	background: black;
+	/*background: #f5f5f5 ;*/
+}
+
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+.textextra{
+	margin: 0px !important;
+}
+
+.material-icons.md-dark { 
+	color: white; 
+}
+
+.loginRegisterModal{
+	height: 50% !important;
+	width: 45% !important;
+	background: #F7F8FA;
+}
+
+
+/* label underline focus color */
+.input-field input[type=text]:focus {
+	border-bottom: 1px solid #000 !important;
+	box-shadow: 0 1px 0 0 #000 !important;
+}
+
+/* label focus color */
+.input-field input[type=text]:focus + label {
+	color: #000 !important;
+}
+
+/* label underline focus color */
+.input-field input[type=password]:focus {
+	border-bottom: 1px solid #000 !important;
+	box-shadow: 0 1px 0 0 #000 !important;
+}
+
+/* label focus color */
+.input-field input[type=password]:focus + label {
+	color: #000 !important;
+}
+
+.input-field label {
+     color: #000;
+   }
+
+.dividerr{
+	height: 300px;
+	width: 1px;
+	background: #383838;
+}
+
+.buttoncolor{
+	background: #000000 !important;
+	color: white !important;
+}
+
+.buttoncolor2{
+	color: #8c5f50 !important;
+	background: #FFFFFF !important;
+}
+
+.brand-logo{
+	/*text-transform: uppercase;*/
+}
+
+.tab.active{
+	background-color: #000000 !important;
+}
+
+.title{
+	font-weight: bold !important;
+	color: black !important;
+}
+
+.title-two{
+	font-weight: 400 !important;
+	color: #878787 !important;
+}
+
+.cattt{
+	background: #f5f5f5 !important;
+	color: black !important;
+	padding: 10px !important;
+	margin-top: 10px !important;
+}
+
+.card-img{
+	background-position: center center;
+	height: 300px !important;
+	
+}
+
+.featured-product-card-img{
+	height: 340px !important;
+}
+
+.price-text{
+	font-weight: bold !important;
+}
+
+.breadcrumb{
+	color: black !important;	
+}
+
+.pruduct-image{
+	max-width: 300px !important;
+	max-height: 400px !important;
+}
+
+.buttoncus{
+	padding: 0px !important;
+	width: 100% !important;
+}
+
+.fivepad{
+	padding: 2px !important;
+}
+
+th,td{
+	padding: 15px 10px !important;
+}
+
+.cart-image{
+    width: 100px !important;
+    height: 100px !important;
+}

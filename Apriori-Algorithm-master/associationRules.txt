@@ -1,0 +1,95 @@
+Oranges,Papayas => Indian Apples = 100%
+Oranges,Papayas => Indian Peirs = 100%
+Oranges,Papayas => Indian Peirs,Indian Apples = 100%
+Oranges,Indian Peirs,Papayas => Indian Apples = 100%
+Indian Peirs,Indian Apples => Papayas = 100%
+Indian Peirs,Indian Apples => Oranges = 100%
+Indian Peirs,Indian Apples => Oranges,Papayas = 100%
+Oranges,Indian Apples => Papayas = 100%
+Oranges,Indian Apples => Indian Peirs = 100%
+Oranges,Indian Apples => Indian Peirs,Papayas = 100%
+Oranges,Indian Peirs,Indian Apples => Papayas = 100%
+Oranges => Indian Peirs = 100%
+Oranges,Papayas,Indian Apples => Indian Peirs = 100%
+Indian Peirs,Papayas,Indian Apples => Oranges = 100%
+Sapota(Chiku),Red Grapes => Sweet Lemon = 100%
+Indian Peirs,Sapota(Chiku) => Sweet Lemon = 80%
+Indian Peirs,Sapota(Chiku),Red Grapes => Sweet Lemon = 100%
+Sweet Lemon,Red Grapes => Sapota(Chiku) = 100%
+Indian Peirs,Sweet Lemon => Sapota(Chiku) = 80%
+Indian Peirs,Sweet Lemon,Red Grapes => Sapota(Chiku) = 100%
+Indian Figs => Musk Mellon = 80%
+Musk Mellon => Indian Figs = 100%
+Red Grapes,Musk Mellon => Indian Figs = 100%
+Red Grapes,Musk Mellon => Indian Peirs = 100%
+Red Grapes,Musk Mellon => Indian Peirs,Indian Figs = 100%
+Indian Peirs,Musk Mellon => Indian Figs = 100%
+Indian Peirs,Musk Mellon => Red Grapes = 100%
+Indian Peirs,Musk Mellon => Red Grapes,Indian Figs = 100%
+Indian Peirs,Red Grapes,Musk Mellon => Indian Figs = 100%
+Red Grapes,Indian Figs => Musk Mellon = 100%
+Red Grapes,Indian Figs => Indian Peirs = 100%
+Red Grapes,Indian Figs => Indian Peirs,Musk Mellon = 100%
+Indian Peirs,Indian Figs => Musk Mellon = 100%
+Indian Peirs,Indian Figs => Red Grapes = 100%
+Indian Peirs,Indian Figs => Red Grapes,Musk Mellon = 100%
+Indian Peirs,Red Grapes,Indian Figs => Musk Mellon = 100%
+Indian Peirs,Musk Mellon,Indian Figs => Red Grapes = 100%
+Red Grapes,Musk Mellon,Indian Figs => Indian Peirs = 100%
+Kiwi fruit,Sweet Lemon => Dragon Fruit = 100%
+Sweet Lemon,Dragon Fruit => Kiwi fruit = 100%
+Kiwi fruit,Papayas => RoyalGala Apples = 100%
+Kiwi fruit,RoyalGala Apples => Papayas = 100%
+ Oranges => Black Graphes = 100%
+ Oranges => Pomogranet = 100%
+ Oranges => Pomogranet,Black Graphes = 100%
+Pomogranet,Black Graphes =>  Oranges = 100%
+Pomogranet, Oranges => Black Graphes = 100%
+Black Graphes, Oranges => Pomogranet = 100%
+PLUM,Sweet Lemon => Red Grapes = 100%
+PLUM,Sweet Lemon => Sapota(Chiku) = 100%
+PLUM,Sweet Lemon => Sapota(Chiku),Red Grapes = 100%
+PLUM,Sapota(Chiku) => Red Grapes = 100%
+PLUM,Sapota(Chiku) => Sweet Lemon = 100%
+PLUM,Sapota(Chiku) => Sweet Lemon,Red Grapes = 100%
+PLUM,Sapota(Chiku),Sweet Lemon => Red Grapes = 100%
+PLUM,Red Grapes => Sweet Lemon = 100%
+PLUM,Red Grapes => Sapota(Chiku) = 100%
+PLUM,Red Grapes => Sapota(Chiku),Sweet Lemon = 100%
+PLUM,Sapota(Chiku),Red Grapes => Sweet Lemon = 100%
+PLUM,Sweet Lemon,Red Grapes => Sapota(Chiku) = 100%
+PLUM,RoyalGala Apples => Custered Apples = 100%
+Custered Apples,RoyalGala Apples => PLUM = 100%
+Sapota(Chiku),Green Graphes => Indian Oranges = 100%
+Indian Oranges,Green Graphes => Sapota(Chiku) = 100%
+Red Grapes,Papayas => Indian Apples = 100%
+Red Grapes,Indian Apples => Papayas = 100%
+Indian Oranges,Musk Mellon => Indian Figs = 100%
+Indian Oranges,Indian Figs => Musk Mellon = 100%
+Indian Apples,Strawberry => Green Graphes = 100%
+Indian Apples,Green Graphes => Strawberry = 100%
+Strawberry,Green Graphes => Indian Apples = 100%
+Blue Berry => Durian Fruit = 100%
+Durian Fruit => Blue Berry = 100%
+Washington Apples,Durian Fruit => Blue Berry = 100%
+Washington Apples,Blue Berry => Durian Fruit = 100%
+Avacados,Durian Fruit => Blue Berry = 100%
+Avacados,Durian Fruit => Dragon Fruit = 100%
+Avacados,Durian Fruit => Dragon Fruit,Blue Berry = 100%
+Dragon Fruit,Durian Fruit => Blue Berry = 100%
+Dragon Fruit,Durian Fruit => Avacados = 100%
+Dragon Fruit,Durian Fruit => Avacados,Blue Berry = 100%
+Dragon Fruit,Avacados,Durian Fruit => Blue Berry = 100%
+Avacados,Blue Berry => Durian Fruit = 100%
+Avacados,Blue Berry => Dragon Fruit = 100%
+Avacados,Blue Berry => Dragon Fruit,Durian Fruit = 100%
+Dragon Fruit,Blue Berry => Durian Fruit = 100%
+Dragon Fruit,Blue Berry => Avacados = 100%
+Dragon Fruit,Blue Berry => Avacados,Durian Fruit = 100%
+Dragon Fruit,Avacados,Blue Berry => Durian Fruit = 100%
+Avacados => Dragon Fruit = 100%
+Dragon Fruit,Durian Fruit,Blue Berry => Avacados = 100%
+Avacados,Durian Fruit,Blue Berry => Dragon Fruit = 100%
+Strawberry,Custered Apples => Black Graphes = 100%
+Strawberry,Black Graphes => Custered Apples = 100%
+Custered Apples,Black Graphes => Strawberry = 100%

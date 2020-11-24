@@ -1,0 +1,46 @@
+Oranges, Indian Peirs, Kiwi fruit, Pomogranet
+PLUM , Sapota(Chiku), Sweet Lemon , Red Grapes
+Papayas , Sapota(Chiku) , Sweet Lemon , Indian Oranges
+Indian Apples , Washington Apples , Dragon Fruit
+Avacados , Dragon Fruit , Kiwi fruit 
+
+Strawberry , Custered Apples , Black Graphes
+Durian Fruit , Dragon Fruit , Avacados , Blue Berry
+Oranges , Indian Peirs , Indian Apples , Papayas
+Kiwi fruit , Dragon Fruit , Sweet Lemon , Green Graphes 
+
+Pomogranet , Papayas , RoyalGala Apples
+Green Apples , Custered Apples , PLUM
+Kiwi fruit , Dragon Fruit
+Indian Peirs , Musk Mellon , Red Grapes , Indian Figs
+Washington Apples , Blue Berry , Durian Fruit
+Black Graphes , Pomogranet ,   Oranges
+RoyalGala Apples , Kiwi fruit , Papayas
+Indian Apples , Green Graphes , Strawberry 
+PLUM , Custered Apples , RoyalGala Apples
+Papayas , Indian Apples , Red Grapes
+Green Graphes , Sapota(Chiku) , Indian Oranges
+Musk Mellon , Indian Oranges , Indian Figs 
+Strawberry , Papayas 
+Indian Figs , Sweet Lemon 
+Indian Apples , Pomogranet , Kiwi fruit 
+Red Grapes , Sweet Lemon , Indian Peirs , Sapota(Chiku) 
+Indian Figs , PLUM , Red Grapes , Sweet Lemon , Indian Peirs , Sapota(Chiku) , Musk Mellon 
+Washington Apples , Blue Berry , Durian Fruit
+Black Graphes , Pomogranet ,   Oranges
+RoyalGala Apples , Kiwi fruit , Papayas
+Indian Apples , Green Graphes , Strawberry 
+PLUM , Custered Apples , RoyalGala Apples
+Papayas , Indian Apples , Red Grapes
+Green Graphes , Sapota(Chiku) , Indian Oranges
+Musk Mellon , Indian Oranges , Indian Figs 
+Strawberry , Papayas 
+Strawberry , Custered Apples , Black Graphes
+Durian Fruit , Dragon Fruit , Avacados , Blue Berry
+Oranges , Indian Peirs , Indian Apples , Papayas
+Kiwi fruit , Dragon Fruit , Sweet Lemon , Green Graphes Black Graphes , Indian Peirs 
+Sapota(Chiku) , Sweet Lemon , Indian Peirs 
+Papayas , Sapota(Chiku) , Indian Peirs 
+Sweet Lemon , Sapota(Chiku) , Indian Peirs 
+Pomogranet , Indian Peirs 
+Indian Peirs 
